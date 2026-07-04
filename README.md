@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Emily, a second-year computer science major at the University of California, Irvine.
+I'm Emily, a third-year computer science major at the University of California, Irvine.
 <!--
 **emilyyng/emilyyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
