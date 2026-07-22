@@ -4,7 +4,9 @@
 🔭 **Aspiring software engineer (frontend or full stack)**
 
 ### More about me:
-- 👩‍💻 I’m currently working on improving the [WICS @ UCI club website](https://wics-website-hazel.vercel.app/)
+- 👩‍💻 I’m currently working on the [WICS @ UCI club website](https://wics-website-hazel.vercel.app/) with my team by:
+   - adhering to WCAG (Web Content Accessibility Guidelines) standards
+   - improving user experience
 - 🌱 I’m currently learning more about ReactJS, JavaScript, and web dev in general
 - 💻 My tech stack:
    - Languages: Python, Java, C++
