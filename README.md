@@ -6,7 +6,7 @@
 - 👩‍💻 I’m currently working on improving the WICS @ UCI club website
 - 🌱 I’m currently learning more about ReactJS, JavaScript, and web dev in general
 
-You can reach me on [LinkedIn](www.linkedin.com/in/emily-yang-sf) or at my email: [emlyyang276@gmail.com]((mailto:emlyyang276@gmail.com)
+You can reach me on [LinkedIn](www.linkedin.com/in/emily-yang-sf) or at my email: [emlyyang276@gmail.com](mailto:emlyyang276@gmail.com)
 
 <!--
 **emilyyng/emilyyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
