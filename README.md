@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Emily! 
 🎓 Third-year computer science major @ UC Irvine
+
 🔭 Aspiring software engineer (frontend or full stack)
 
 - 👩‍💻 I’m currently working on improving the WICS @ UCI club website
