@@ -8,6 +8,7 @@
 - 💻 My tech stack:
    - Languages: Python, Java, C++
    - Web Dev: HTML, CSS, React, Next.js
+   - Tools: VS Code, Jupyter Notebooks, Git, GitHub
 
 You can reach me on [LinkedIn](www.linkedin.com/in/emily-yang-sf) or at my email: [emlyyang276@gmail.com](mailto:emlyyang276@gmail.com)
 
