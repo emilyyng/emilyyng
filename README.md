@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Emily! 
-🎓 **Third-year computer science major @ UC Irvine**
-
+🎓 **Third-year computer science major @ UC Irvine**  
 🔭 **Aspiring software engineer (frontend or full stack)**
 
 ### More about me:
