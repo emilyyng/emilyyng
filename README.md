@@ -6,7 +6,7 @@
 - 👩‍💻 I’m currently working on the [WICS @ UCI club website](https://wics-website-hazel.vercel.app/) with my team
 - 🌱 I’m currently learning more about ReactJS, JavaScript, and web dev in general
 - 💻 My tech stack:
-   - Languages: Python, Java, C++
+   - Languages: Python, Java, C/C++
    - Web Dev: HTML, CSS, React, Next.js
    - Tools: VS Code, Jupyter Notebooks, Git, GitHub
 
