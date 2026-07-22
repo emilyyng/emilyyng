@@ -6,6 +6,9 @@
 ### More about me:
 - 👩‍💻 I’m currently working on improving the WICS @ UCI club website
 - 🌱 I’m currently learning more about ReactJS, JavaScript, and web dev in general
+- 💻 My tech stack:
+   - Languages: Python, Java, C++
+   - Web Dev: HTML, CSS, React, Next.js
 
 You can reach me on [LinkedIn](www.linkedin.com/in/emily-yang-sf) or at my email: [emlyyang276@gmail.com](mailto:emlyyang276@gmail.com)
 
