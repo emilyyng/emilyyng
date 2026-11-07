@@ -3,8 +3,8 @@
 🔭 **Aspiring software engineer (frontend / full stack)**
 
 ### More about me:
-- 👩‍💻 I’m currently working on the [WICS @ UCI club website](https://wics-website-hazel.vercel.app/) with my team
-- 🌱 I’m currently learning more about ReactJS, JavaScript, and web dev in general
+- 👩‍💻 I’m currently working on the [WICS @ UCI club website](https://wics.ics.uci.edu/) as a project lead
+- 🌱 I’m currently learning more about ReactJS, JavaScript, and web dev in general!
 - 💻 My tech stack:
    - Languages: Python, Java, C/C++
    - Web Dev: HTML, CSS, React, Next.js
