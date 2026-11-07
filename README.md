@@ -12,6 +12,8 @@
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/emily-yang-sf) or at my email: [emlyyang276@gmail.com](mailto:emlyyang276@gmail.com)
 
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
 <!--
 **emilyyng/emilyyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
