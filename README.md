@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Emily! 
 🎓 **Third-year computer science major @ UC Irvine**  
-🔭 **Aspiring software engineer (frontend or full stack)**
+🔭 **Aspiring software engineer (frontend / full stack)**
 
 ### More about me:
 - 👩‍💻 I’m currently working on the [WICS @ UCI club website](https://wics-website-hazel.vercel.app/) with my team
